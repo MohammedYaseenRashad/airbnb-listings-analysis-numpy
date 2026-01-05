@@ -20,6 +20,8 @@ This project analyzes Airbnb listings data using NumPy to understand pricing beh
 ## Dataset
 The dataset used for this project is large and therefore not uploaded to this repository.
 Dataset source: Kaggle (Airbnb Listings Dataset)
+The dataset used for this project is large and exceeds GitHub’s file size limits, so it has not been uploaded.
+Dataset source: Kaggle (Airbnb Listings Dataset)
 
 ## Key Takeaways
 - Price variation depends on multiple listing attributes
